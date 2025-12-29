@@ -2,6 +2,8 @@
 
 Python script to resample multi-resolution timeseries containing extreme periods of high frequency burst data.
 
+![image](https://github.com/patternizer/resample-extremes/blob/main/OUT/v1/raw_vs_monthly_naive_vs_censored.png)
+
 ## Create environment
 
 	conda create -n resample-extremes python=3.11 -y
