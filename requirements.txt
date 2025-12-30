@@ -4,3 +4,4 @@ matplotlib>=3.7
 scipy>=1.10
 pywavelets>=1.4
 EMD-signal>=1.6.4
+statsmodels>=0.14.6
